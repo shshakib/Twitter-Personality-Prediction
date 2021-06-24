@@ -3,3 +3,5 @@ mbti_Dataset.csv
 full_Lem_tfidf.npz
 full_Lem_Ngram.npz
 full_Lem_CV.npz
+full_Lem_CV.npy
+full_Lem_tfidf.npy
