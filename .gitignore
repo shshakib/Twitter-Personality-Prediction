@@ -5,3 +5,4 @@ full_Lem_Ngram.npz
 full_Lem_CV.npz
 full_Lem_CV.npy
 full_Lem_tfidf.npy
+RF_Holdout_Result.csv
