@@ -7,3 +7,6 @@ full_Lem_CV.npy
 full_Lem_tfidf.npy
 RF_Holdout_Result.csv
 GB_Holdout_Result.csv
+mbti_Dataset1.csv
+mbti_Dataset2.pkl
+full_Lem_Count.npz
