@@ -11,3 +11,11 @@ mbti_Dataset1.csv
 mbti_Dataset2.pkl
 full_Lem_Count.npz
 mbti_FE.pkl
+Y_train
+X_train_tfidf.npy
+Y_test
+X_train_count.npy
+X_train
+X_test_tfidf.npy
+X_test_count.npy
+X_test
