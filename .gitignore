@@ -19,3 +19,7 @@ X_train
 X_test_tfidf.npy
 X_test_count.npy
 X_test
+Y_train.pkl
+X_train.pkl
+Y_test.pkl
+X_test.pkl
