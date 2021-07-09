@@ -1,5 +1,0 @@
-Column1,Feature,Class,param_max_depth,param_learning_rate,param_n_estimators,mean_test_score,std_test_score,rank_test_score
-0,TFIDF,IE,3,0.1,100,0.774207493,0.002903378,1
-0,TFIDF,NS,3,0.1,100,0.863688761,0.000288184,1
-0,TFIDF,FT,3,0.1,100,0.630403458,0.02023457,1
-0,TFIDF,PJ,3,0.1,100,0.590201729,0.007561753,1
