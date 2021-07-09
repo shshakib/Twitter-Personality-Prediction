@@ -1,5 +1,4 @@
 mbti_FE.csv
-mbti_Dataset.csv
 full_Lem_tfidf.npz
 full_Lem_Ngram.npz
 full_Lem_CV.npz
@@ -7,7 +6,6 @@ full_Lem_CV.npy
 full_Lem_tfidf.npy
 RF_Holdout_Result.csv
 GB_Holdout_Result.csv
-mbti_Dataset1.csv
 mbti_Dataset2.pkl
 full_Lem_Count.npz
 mbti_FE.pkl
@@ -24,3 +22,4 @@ X_train.pkl
 Y_test.pkl
 X_test.pkl
 RF_Parm_Result.csv
+mbti_Dataset1.csv
