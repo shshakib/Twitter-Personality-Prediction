@@ -26,3 +26,20 @@ mbti_Dataset1.csv
 MBTI-All.ipynb
 GB_Parm_Result.csv
 Step5 Machine Learning Model - Copy.ipynb
+.ipynb_checkpoints/Step5 Machine Learning Model-checkpoint.ipynb
+Y_train_fe.pkl
+Y_test_fe.pkl
+X_train_tfidf_fe.npy
+X_train_fe.pkl
+X_train_count_fe.npy
+X_test_tfidf_fe.npy
+X_test_fe.pkl
+X_test_count_fe.npy
+test.csv
+tweet.csv
+mbti_Dataset.zip
+RF_Parm_Result_fe.csv
+RF_Holdout_Result_fe.csv
+backup/mbti_Dataset.csv
+GB_Parm_Result_fe.csv
+GB_Holdout_Result-fe.csv
