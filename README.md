@@ -1,5 +1,5 @@
 # CIND820
-CIND820
+Twitter Personality Prediction
 
 
 
