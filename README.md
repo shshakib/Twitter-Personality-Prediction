@@ -1,4 +1,4 @@
-# CIND820
+# Twitter Personality Prediction
 Twitter Personality Prediction
 
 
